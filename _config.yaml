@@ -1,16 +1,14 @@
-title: dhawale-lab
-subtitle: by the Greene Lab
-description: An engaging 1-3 sentence description of your lab.
+title: Dhawale Lab at IISc
+subtitle: The Neuroscience of Exploration
+description: We seek to understand how the brain solves complex tasks.
 header: images/background.jpg
 footer: images/background.jpg
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: ashesh@iisc.ac.in
+  orcid: 0000-0001-7438-1115
+  google-scholar: gb2zS_IAAAAJ
+  github: dhawale-lab
+  twitter: AsheshDhawale
 defaults:
   - scope:
       path: ""
@@ -46,8 +44,6 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-email: contact@dhawale-lab.com
+email: ashesh@iisc.ac.in
 github: dhawale-lab
-twitter: dhawale-lab
-instagram: dhawale-lab
-youtube: dhawale-lab
+twitter: AsheshDhawale
