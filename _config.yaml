@@ -6,9 +6,7 @@ header: images/background.jpg
 footer: images/background.jpg
 links:
   email: ashesh@iisc.ac.in
-  orcid: 0000-0001-7438-1115
   google-scholar: gb2zS_IAAAAJ
-  github: dhawale-lab
   twitter: AsheshDhawale
 defaults:
   - scope:
@@ -46,5 +44,4 @@ exclude:
   - LICENSE.md
   - CITATION.cff
 email: ashesh@iisc.ac.in
-github: dhawale-lab
 twitter: AsheshDhawale
