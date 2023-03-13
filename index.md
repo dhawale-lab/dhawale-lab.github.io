@@ -1,7 +1,7 @@
 ---
 ---
 
-# dhawale-lab's Website
+# THE NEUROSCIENCE OF EXPLORATION 
 
 An engaging 1-3 sentence description of your lab.
 
