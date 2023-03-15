@@ -1,7 +1,7 @@
 ---
 ---
 
-# NEURAL ALGORITHMS FOR LEARNING
+# NEUROSCIENCE OF EXPLORATION
 {:.center}
 
 An engaging 1-3 sentence description of your lab.
