@@ -1,82 +1,246 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1038/s41593-022-01194-3
+  title: Long-term stability of single neuron activity in the motor system
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Kristopher T. Jensen
+  - Naama Kadmon Harpaz
+  - Ashesh K. Dhawale
+  - Steffen B. E. Wolff
+  - "Bence P. \xD6lveczky"
+  publisher: Nature Neuroscience
+  date: '2022-11-10'
+  link: https://doi.org/grb9cv
+  orcid: 0000-0001-7438-1115
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41593-021-00889-3
+  title: The basal ganglia control the detailed kinematics of learned motor skills
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Ashesh K. Dhawale
+  - Steffen B. E. Wolff
+  - Raymond Ko
+  - "Bence P. \xD6lveczky"
+  publisher: Nature Neuroscience
+  date: '2021-07-15'
+  link: https://doi.org/gmqgqr
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cub.2019.08.052
+  title: Adaptive Regulation of Motor Variability
+  authors:
+  - Ashesh K. Dhawale
+  - Yohsuke R. Miyamoto
+  - Maurice A. Smith
+  - "Bence P. \xD6lveczky"
+  publisher: Current Biology
+  date: '2019-11-01'
+  link: https://doi.org/gpwskw
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/661165
+  title: Discovering precise temporal patterns in large-scale neural recordings through
+    robust and interpretable time warping
+  authors:
+  - Alex H. Williams
+  - Ben Poole
+  - Niru Maheswaranathan
+  - Ashesh K. Dhawale
+  - Tucker Fisher
+  - Christopher D. Wilson
+  - David H. Brann
+  - Eric Trautmann
+  - Stephen Ryu
+  - Roman Shusterman
+  - Dmitry Rinberg
+  - "Bence P. \xD6lveczky"
+  - Krishna V. Shenoy
+  - Surya Ganguli
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2019-06-06'
+  link: https://doi.org/gkwqrr
+  orcid: 0000-0001-7438-1115
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.7554/eLife.27702
+  title: Automated long-term recording and analysis of neural activity in behaving
+    animals
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Ashesh K Dhawale
+  - Rajesh Poddar
+  - Steffen BE Wolff
+  - Valentin A Normand
+  - Evi Kopelowitz
+  - "Bence P \xD6lveczky"
+  publisher: eLife
+  date: '2017-09-08'
+  link: https://doi.org/gsj48n
+  orcid: 0000-0001-7438-1115
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1146/annurev-neuro-072116-031548
+  title: The Role of Variability in Motor Learning
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Ashesh K. Dhawale
+  - Maurice A. Smith
+  - "Bence P. \xD6lveczky"
+  publisher: Annual Review of Neuroscience
+  date: '2017-07-25'
+  link: https://doi.org/gh3f5q
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuron.2015.03.024
+  title: Motor Cortex Is Required for Learning but Not for Executing a Motor Skill
+  authors:
+  - Risa Kawai
+  - Timothy Markman
+  - Rajesh Poddar
+  - Raymond Ko
+  - "Antoniu\_L. Fantana"
+  - "Ashesh\_K. Dhawale"
+  - "Adam\_R. Kampff"
+  - "Bence\_P. \xD6lveczky"
+  publisher: Neuron
+  date: '2015-05-01'
+  link: https://doi.org/f7bfk5
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25892304
+  title: Motor cortex is required for learning but not for executing a motor skill.
+  authors:
+  - Risa Kawai
+  - Timothy Markman
+  - Rajesh Poddar
+  - Raymond Ko
+  - Antoniu L Fantana
+  - Ashesh K Dhawale
+  - Adam R Kampff
+  - "Bence P \xD6lveczky"
+  publisher: Neuron
+  date: '2015-04-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25892304
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.01982
+  title: CA1 cell activity sequences emerge after reorganization of network correlation
+    structure during associative learning
+  authors:
+  - Mehrab N Modi
+  - Ashesh K Dhawale
+  - Upinder S Bhalla
+  publisher: eLife
+  date: '2014-03-25'
+  link: https://doi.org/gddsks
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC3964823
+  title: CA1 cell activity sequences emerge after reorganization of network correlation
+    structure during associative learning
+  authors:
+  - Mehrab N Modi
+  - Ashesh K Dhawale
+  - Upinder S Bhalla
+  publisher: eLife
+  date: '2014-03-25'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964823/
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24668171
+  title: CA1 cell activity sequences emerge after reorganization of network correlation
+    structure during associative learning.
+  authors:
+  - Mehrab N Modi
+  - Ashesh K Dhawale
+  - Upinder S Bhalla
+  publisher: eLife
+  date: '2014-03-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24668171
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nn.2673
+  title: Non-redundant odor coding by sister mitral cells revealed by light addressable
+    glomeruli in the mouse
+  authors:
+  - Ashesh K Dhawale
+  - Akari Hagiwara
+  - Upinder S Bhalla
+  - Venkatesh N Murthy
+  - Dinu F Albeanu
+  publisher: Nature Neuroscience
+  date: '2010-10-17'
+  link: https://doi.org/dp4gcz
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20953197
+  title: Non-redundant odor coding by sister mitral cells revealed by light addressable
+    glomeruli in the mouse.
+  authors:
+  - Ashesh K Dhawale
+  - Akari Hagiwara
+  - Upinder S Bhalla
+  - Venkatesh N Murthy
+  - Dinu F Albeanu
+  publisher: Nature neuroscience
+  date: '2010-10-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20953197
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC3208311
+  title: Non-redundant odor coding by sister mitral cells revealed by light addressable
+    glomeruli in the mouse
+  authors:
+  - Ashesh K Dhawale
+  - Akari Hagiwara
+  - Upinder S Bhalla
+  - Venkatesh N Murthy
+  - Dinu F Albeanu
+  publisher: Nature neuroscience
+  date: '2010-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3208311/
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC2640997
+  title: 'The network and the synapse: 100 years after Cajal'
+  authors:
+  - Ashesh Dhawale
+  - Upinder S Bhalla
+  publisher: HFSP journal
+  date: '2008-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2640997/
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19404449
+  title: 'The network and the synapse: 100 years after Cajal.'
+  authors:
+  - Ashesh Dhawale
+  - Upinder S Bhalla
+  publisher: HFSP journal
+  date: '2008-01-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19404449
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2976/1.2835214
+  title: 'The network and the synapse: 100 years after Cajal'
+  authors:
+  - Ashesh Dhawale
+  - Upinder S. Bhalla
+  publisher: HFSP Journal
+  date: '2008-02-01'
+  link: https://doi.org/dz34zt
+  orcid: 0000-0001-7438-1115
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -92,9 +256,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua.
@@ -111,21 +272,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
