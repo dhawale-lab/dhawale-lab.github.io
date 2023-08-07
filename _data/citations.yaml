@@ -27,6 +27,7 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41593-021-00889-3/MediaObjects/41593_2021_889_Fig1_HTML.png?as=webp
 - id: doi:10.1016/j.cub.2019.08.052
   title: Adaptive Regulation of Motor Variability
   authors:
@@ -40,6 +41,10 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982219311029-gr1.jpg
+  buttons:
+  - type: youtube
+    link: https://www.youtube.com/watch?v=01MLI5diOQ8
 - id: doi:10.1101/661165
   title: Discovering precise temporal patterns in large-scale neural recordings through
     robust and interpretable time warping
@@ -80,6 +85,7 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
+  image: https://iiif.elifesciences.org/lax/27702%2Felife-27702-fig1-v2.tif/full/1234,/0/default.webp
 - id: doi:10.1146/annurev-neuro-072116-031548
   title: The Role of Variability in Motor Learning
   authors:
@@ -92,6 +98,7 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6091866/bin/nihms982700f1.jpg
 - id: doi:10.1016/j.neuron.2015.03.024
   title: Motor Cortex Is Required for Learning but Not for Executing a Motor Skill
   authors:
