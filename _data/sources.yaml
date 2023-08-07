@@ -1,17 +1,31 @@
 # Highlights
 - id: doi:10.1038/s41593-021-00889-3
-- id: doi:10.1016/j.cub.2019.08.052
-- id: doi:10.7554/eLife.27702
-- id: doi:10.1146/annurev-neuro-072116-031548
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41593-021-00889-3/MediaObjects/41593_2021_889_Fig1_HTML.png?as=webp
 
-# Full list
-- id: doi:10.1038/s41593-022-01194-3
-- id: doi:10.1038/s41593-021-00889-3
 - id: doi:10.1016/j.cub.2019.08.052
-- id: doi:10.1101/661165
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982219311029-gr1.jpg
+  buttons:
+    - type: youtube
+      link: https://www.youtube.com/watch?v=01MLI5diOQ8
+
 - id: doi:10.7554/eLife.27702
+  image: https://iiif.elifesciences.org/lax/27702%2Felife-27702-fig1-v2.tif/full/1234,/0/default.webp
+
 - id: doi:10.1146/annurev-neuro-072116-031548
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6091866/bin/nihms982700f1.jpg
+
+# Remaining publications
+
+- id: doi:10.1038/s41593-022-01194-3
+
+- id: doi:10.1016/j.cub.2019.08.052
+
+- id: doi:10.1101/661165
+
 - id: doi:10.1016/j.neuron.2015.03.024
+
 - id: doi:10.7554/eLife.01982
+
 - id: doi:10.1038/nn.2673
+
 - id: doi:10.2976/1.2835214
