@@ -6,7 +6,8 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982219311029-gr1.jpg
   buttons:
     - type: youtube
-      link: https://www.youtube.com/watch?v=01MLI5diOQ8
+      text: Video abstract
+      link: watch?v=01MLI5diOQ8
 
 - id: doi:10.7554/eLife.27702
   image: https://iiif.elifesciences.org/lax/27702%2Felife-27702-fig1-v2.tif/full/1234,/0/default.webp
