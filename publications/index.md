@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Adaptive regulation" style="rich" %}
+{% include citation.html lookup="Adaptive Regulation of Motor Variability" style="rich" %}
 
 {% include section.html %}
 
