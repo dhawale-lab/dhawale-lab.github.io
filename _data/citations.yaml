@@ -44,7 +44,8 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982219311029-gr1.jpg
   buttons:
   - type: youtube
-    link: https://www.youtube.com/watch?v=01MLI5diOQ8
+    text: Video abstract
+    link: watch?v=01MLI5diOQ8
 - id: doi:10.1101/661165
   title: Discovering precise temporal patterns in large-scale neural recordings through
     robust and interpretable time warping
