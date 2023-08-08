@@ -147,32 +147,6 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
-- id: pmc:PMC3964823
-  title: CA1 cell activity sequences emerge after reorganization of network correlation
-    structure during associative learning
-  authors:
-  - Mehrab N Modi
-  - Ashesh K Dhawale
-  - Upinder S Bhalla
-  publisher: eLife
-  date: '2014-03-25'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964823/
-  orcid: 0000-0001-7438-1115
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:24668171
-  title: CA1 cell activity sequences emerge after reorganization of network correlation
-    structure during associative learning.
-  authors:
-  - Mehrab N Modi
-  - Ashesh K Dhawale
-  - Upinder S Bhalla
-  publisher: eLife
-  date: '2014-03-25'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24668171
-  orcid: 0000-0001-7438-1115
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/nn.2673
   title: Non-redundant odor coding by sister mitral cells revealed by light addressable
     glomeruli in the mouse
