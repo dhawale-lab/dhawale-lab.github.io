@@ -2,7 +2,7 @@
 title: Team
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: People
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
@@ -14,6 +14,7 @@ Our team comprises an interdisciplinary group of researchers with diverse backgr
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: ra, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 
 {% include section.html background="images/lab.jpg" dark=true %}
@@ -23,9 +24,8 @@ Our team comprises an interdisciplinary group of researchers with diverse backgr
 Alumni
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: ra, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
 
 {% capture content %}
 
