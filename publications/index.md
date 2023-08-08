@@ -7,14 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
 
 ## Highlighted
 
+{% include citation.html lookup="The basal ganglia control the detailed kinematics of learned motor skills" style="rich" %}
+
 {% include citation.html lookup="Adaptive Regulation of Motor Variability" style="rich" %}
+
+{% include citation.html lookup="Automated long-term recording and analysis of neural activity in behaving animals" style="rich" %}
+
+{% include citation.html lookup="The Role of Variability in Motor Learning" style="rich" %}
 
 {% include section.html %}
 
@@ -24,4 +27,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" %}
