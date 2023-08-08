@@ -117,23 +117,6 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
-- id: pmid:25892304
-  title: Motor cortex is required for learning but not for executing a motor skill.
-  authors:
-  - Risa Kawai
-  - Timothy Markman
-  - Rajesh Poddar
-  - Raymond Ko
-  - Antoniu L Fantana
-  - Ashesh K Dhawale
-  - Adam R Kampff
-  - "Bence P \xD6lveczky"
-  publisher: Neuron
-  date: '2015-04-16'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25892304
-  orcid: 0000-0001-7438-1115
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.7554/eLife.01982
   title: CA1 cell activity sequences emerge after reorganization of network correlation
     structure during associative learning
@@ -147,32 +130,6 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
-- id: pmc:PMC3964823
-  title: CA1 cell activity sequences emerge after reorganization of network correlation
-    structure during associative learning
-  authors:
-  - Mehrab N Modi
-  - Ashesh K Dhawale
-  - Upinder S Bhalla
-  publisher: eLife
-  date: '2014-03-25'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964823/
-  orcid: 0000-0001-7438-1115
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:24668171
-  title: CA1 cell activity sequences emerge after reorganization of network correlation
-    structure during associative learning.
-  authors:
-  - Mehrab N Modi
-  - Ashesh K Dhawale
-  - Upinder S Bhalla
-  publisher: eLife
-  date: '2014-03-25'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24668171
-  orcid: 0000-0001-7438-1115
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/nn.2673
   title: Non-redundant odor coding by sister mitral cells revealed by light addressable
     glomeruli in the mouse
@@ -188,58 +145,6 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
-- id: pmid:20953197
-  title: Non-redundant odor coding by sister mitral cells revealed by light addressable
-    glomeruli in the mouse.
-  authors:
-  - Ashesh K Dhawale
-  - Akari Hagiwara
-  - Upinder S Bhalla
-  - Venkatesh N Murthy
-  - Dinu F Albeanu
-  publisher: Nature neuroscience
-  date: '2010-10-17'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/20953197
-  orcid: 0000-0001-7438-1115
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmc:PMC3208311
-  title: Non-redundant odor coding by sister mitral cells revealed by light addressable
-    glomeruli in the mouse
-  authors:
-  - Ashesh K Dhawale
-  - Akari Hagiwara
-  - Upinder S Bhalla
-  - Venkatesh N Murthy
-  - Dinu F Albeanu
-  publisher: Nature neuroscience
-  date: '2010-11-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3208311/
-  orcid: 0000-0001-7438-1115
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmc:PMC2640997
-  title: 'The network and the synapse: 100 years after Cajal'
-  authors:
-  - Ashesh Dhawale
-  - Upinder S Bhalla
-  publisher: HFSP journal
-  date: '2008-02-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2640997/
-  orcid: 0000-0001-7438-1115
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:19404449
-  title: 'The network and the synapse: 100 years after Cajal.'
-  authors:
-  - Ashesh Dhawale
-  - Upinder S Bhalla
-  publisher: HFSP journal
-  date: '2008-01-30'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/19404449
-  orcid: 0000-0001-7438-1115
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.2976/1.2835214
   title: 'The network and the synapse: 100 years after Cajal'
   authors:
