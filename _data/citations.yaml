@@ -117,7 +117,7 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.01982
+- id: doi:10.7554/elife.01982
   title: CA1 cell activity sequences emerge after reorganization of network correlation
     structure during associative learning
   authors:
@@ -128,8 +128,8 @@
   date: '2014-03-25'
   link: https://doi.org/gddsks
   orcid: 0000-0001-7438-1115
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/nn.2673
   title: Non-redundant odor coding by sister mitral cells revealed by light addressable
     glomeruli in the mouse
@@ -177,5 +177,17 @@
   publisher: Neuron
   date: '2020-01-01'
   link: https://doi.org/ghkbqb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.01982
+  title: CA1 cell activity sequences emerge after reorganization of network correlation
+    structure during associative learning
+  authors:
+  - Mehrab N Modi
+  - Ashesh K Dhawale
+  - Upinder S Bhalla
+  publisher: eLife
+  date: '2014-03-25'
+  link: https://doi.org/gddsks
   plugin: sources.py
   file: sources.yaml
