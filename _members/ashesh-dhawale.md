@@ -1,6 +1,6 @@
 ---
 name: Ashesh Dhawale
-image: images/ashesh_pic.jpg
+image: images/Ashesh.jpg
 role: pi
 aliases:
   - A. K. Dhawale
