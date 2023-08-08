@@ -1,10 +1,10 @@
 ---
-name: Atharva Modi
-image: images/team/atharva-modi.jpg
-description: PhD student (CNS)
-role: phd
+name: Abhishek Jangid
+image: images/team/abhishek-jangid.jpg
+description: BS-MS student (IISER Kolkata)
+role: undergrad
+group: alum
 links:
-  email: atharvamodi@iisc.ac.in
   
 ---
 

@@ -1,10 +1,10 @@
 ---
-name: Atharva Modi
-image: images/team/atharva-modi.jpg
-description: PhD student (CNS)
-role: phd
+name: Shooktija SN
+image: images/team/shooktija-sn.jpg
+description: Research Assistant
+role: ra
 links:
-  email: atharvamodi@iisc.ac.in
+  email: shooktijasn@iisc.ac.in
   
 ---
 

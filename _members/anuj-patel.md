@@ -1,11 +1,11 @@
 ---
-name: Atharva Modi
-image: images/team/atharva-modi.jpg
-description: PhD student (CNS)
-role: phd
+name: Anuj Patel
+image: images/team/anuj-patel.jpg
+description: Research Assistant
+role: ra
+group: alum
 links:
-  email: atharvamodi@iisc.ac.in
-  
+    
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

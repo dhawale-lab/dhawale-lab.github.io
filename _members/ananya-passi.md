@@ -1,10 +1,10 @@
 ---
-name: Atharva Modi
-image: images/team/atharva-modi.jpg
-description: PhD student (CNS)
-role: phd
-links:
-  email: atharvamodi@iisc.ac.in
+name: Ananya Passi
+image: images/team/ananya-passi.jpg
+description: BS-MS student (IISc)
+role: undergrad
+group: alum
+links:  
   
 ---
 
