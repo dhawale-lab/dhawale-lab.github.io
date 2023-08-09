@@ -10,7 +10,7 @@ We employ an interdisciplinary strategy to investigate the neural basis of skill
 
 {%
   include figure.html
-  image="images/team/lab-pic-casual.jpg"
+  image="images/team/lab-pic-formal.jpg"
   link="team"
   title="Our Team"
   text=text
