@@ -5,23 +5,48 @@ nav:
   tooltip: Projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
+Our research spans multiple areas including motor learning, decision-making, and play behaviour.
 
 {% include section.html %}
 
-## Featured
+## Projects
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% capture text %}
 
-{% include section.html %}
+{:.center}
+{% endcapture %}
 
-## More
+{%
+  include feature.html
+  image="images/photo.jpg"
+  headline="Neural mechanisms for learning in continuous motor spaces"
+  text=text
+%}
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% capture text %}
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  headline="Neural basis of structure learning"
+  text=text
+%}
+
+{% capture text %}
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  headline="Development and impact of social play behaviour"
+  text=text
+%}
