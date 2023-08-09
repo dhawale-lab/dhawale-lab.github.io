@@ -20,14 +20,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="phone"
-  text="+91(80)2293-3753 (Office)"
+  text="+91(80)2293-3753"
   link="+91-80-22933753"
-%}
-{%
-  include button.html
-  type="phone"
-  text="+91(80)2293-3754 (Lab)"
-  link="+91-80-22933754"
 %}
 {%
   include button.html
