@@ -36,6 +36,7 @@
 
 
 
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Research | Dhawale Lab</title>
@@ -43,17 +44,17 @@
 <link rel="icon" href="/images/icon.png">
 
 <meta name="title" content="Research">
-<meta name="description" content="We are a research lab at the Centre for Neuroscience within the Indian Institute of Science. We seek to understand how the brain solves complex tasks.">
+<meta name="description" content="The Neuroscience of Exploration. We are a research lab at the Centre for Neuroscience within the Indian Institute of Science. We seek to understand how the brain solves complex tasks.">
 
 <meta property="og:title" content="Research">
 <meta property="og:site_title" content="Dhawale Lab">
-<meta property="og:description" content="We are a research lab at the Centre for Neuroscience within the Indian Institute of Science. We seek to understand how the brain solves complex tasks.">
+<meta property="og:description" content="The Neuroscience of Exploration. We are a research lab at the Centre for Neuroscience within the Indian Institute of Science. We seek to understand how the brain solves complex tasks.">
 <meta property="og:url" content="">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Research">
-<meta property="twitter:description" content="We are a research lab at the Centre for Neuroscience within the Indian Institute of Science. We seek to understand how the brain solves complex tasks.">
+<meta property="twitter:description" content="The Neuroscience of Exploration. We are a research lab at the Centre for Neuroscience within the Indian Institute of Science. We seek to understand how the brain solves complex tasks.">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
@@ -69,7 +70,7 @@
       "@type": "WebSite",
     
     "name": "Research",
-    "description": "We are a research lab at the Centre for Neuroscience within the Indian Institute of Science. We seek to understand how the brain solves complex tasks.",
+    "description": "The Neuroscience of Exploration. We are a research lab at the Centre for Neuroscience within the Indian Institute of Science. We seek to understand how the brain solves complex tasks.",
     "headline": "Research",
     "publisher": {
       "@type": "Organization",
@@ -85,13 +86,13 @@
 <!-- automatically get url from fonts used in theme file -->
 
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.0.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.0.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -103,6 +104,10 @@
 
   
     <link href="/_styles/-theme.css" rel="stylesheet">
+  
+
+  
+    <link href="/_styles/alert.css" rel="stylesheet">
   
 
   
@@ -323,6 +328,8 @@
 
   
 
+  
+
 
 <!-- include all css in styles folder -->
 
@@ -468,6 +475,12 @@
       
     
       
+        <a href="/blog/" data-tooltip="Musings and miscellany">
+          Blog
+        </a>
+      
+    
+      
         <a href="/contact/" data-tooltip="Email, address, and location">
           Contact
         </a>
@@ -496,28 +509,12 @@
   
   
 
-  <section class="background" data-size="page" data-dark="">
+  <section class="background" data-size="page">
     <h1 id="research">
 <i class="icon fa-solid fa-wrench"></i>Research</h1>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-
-<div class="tags" data-link="/research/">
-    
-      <a href='/research/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
-        publication
-      </a>
-    
-      <a href='/research/?search="tag:%20resource"' class="tag" data-tooltip='Show items with the tag "resource"'>
-        resource
-      </a>
-    
-      <a href='/research/?search="tag:%20website"' class="tag" data-tooltip='Show items with the tag "website"'>
-        website
-      </a>
-    
-  </div>
 
 <div class="search-info"></div>
   </section>
@@ -526,7 +523,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
   
 
-  <section class="background" data-size="page" data-dark="">
+  <section class="background" data-size="page">
     <!--
   background: ;
   dark: ;
@@ -536,15 +533,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <h2 id="featured">Featured</h2>
 
 <div class="card" data-style="">
-  <a href="https://github.com/" class="card-image">
-    <img src="/images/photo.jpg" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  <a href="https://github.com/" aria-label="Cool Dataset" class="card-image">
+    <img src="/images/photo.jpg" alt="Cool Dataset" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
   <div class="card-text">
     
       <a href="https://github.com/" class="card-title">
         Cool Dataset
-      </a>
+    </a>
     
 
     
@@ -562,7 +559,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
   <div class="tags" data-repo="greenelab/lab-website-template" data-link="/research/">
     
-      <a href='/research/?search="tag:%20resource"' class="tag" data-tooltip='Show items with the tag "resource"'>
+      <a href="/research/?search=%22tag:%20resource%22" class="tag" data-tooltip='Show items with the tag "resource"'>
         resource
       </a>
     
@@ -574,15 +571,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 </div>
 
 <div class="card" data-style="">
-  <a href="https://github.com/" class="card-image">
-    <img src="/images/photo.jpg" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  <a href="https://github.com/" aria-label="Cool Package" class="card-image">
+    <img src="/images/photo.jpg" alt="Cool Package" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
   <div class="card-text">
     
       <a href="https://github.com/" class="card-title">
         Cool Package
-      </a>
+    </a>
     
 
     
@@ -600,7 +597,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
   <div class="tags" data-repo="greenelab/lab-website-template" data-link="/research/">
     
-      <a href='/research/?search="tag:%20resource"' class="tag" data-tooltip='Show items with the tag "resource"'>
+      <a href="/research/?search=%22tag:%20resource%22" class="tag" data-tooltip='Show items with the tag "resource"'>
         resource
       </a>
     
@@ -616,7 +613,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
   
 
-  <section class="background" data-size="page" data-dark="">
+  <section class="background" data-size="page">
     <!--
   background: ;
   dark: ;
@@ -626,15 +623,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <h2 id="more">More</h2>
 
 <div class="card" data-style="small">
-  <a href="https://github.com/" class="card-image">
-    <img src="/images/photo.jpg" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  <a href="https://github.com/" aria-label="Cool Tutorial" class="card-image">
+    <img src="/images/photo.jpg" alt="Cool Tutorial" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
   <div class="card-text">
     
       <a href="https://github.com/" class="card-title">
         Cool Tutorial
-      </a>
+    </a>
     
 
     
@@ -652,11 +649,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
   <div class="tags" data-repo="greenelab/lab-website-template" data-link="/research/">
     
-      <a href='/research/?search="tag:%20resource"' class="tag" data-tooltip='Show items with the tag "resource"'>
+      <a href="/research/?search=%22tag:%20resource%22" class="tag" data-tooltip='Show items with the tag "resource"'>
         resource
       </a>
     
-      <a href='/research/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
+      <a href="/research/?search=%22tag:%20publication%22" class="tag" data-tooltip='Show items with the tag "publication"'>
         publication
       </a>
     
@@ -668,15 +665,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 </div>
 
 <div class="card" data-style="small">
-  <a href="https://github.com/" class="card-image">
-    <img src="/images/photo.jpg" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  <a href="https://github.com/" aria-label="Cool Web App" class="card-image">
+    <img src="/images/photo.jpg" alt="Cool Web App" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
   <div class="card-text">
     
       <a href="https://github.com/" class="card-title">
         Cool Web App
-      </a>
+    </a>
     
 
     
@@ -694,7 +691,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
   <div class="tags" data-repo="greenelab/lab-website-template" data-link="/research/">
     
-      <a href='/research/?search="tag:%20software"' class="tag" data-tooltip='Show items with the tag "software"'>
+      <a href="/research/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
         software
       </a>
     
@@ -706,15 +703,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 </div>
 
 <div class="card" data-style="small">
-  <a href="https://github.com/" class="card-image">
-    <img src="/images/photo.jpg" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  <a href="https://github.com/" aria-label="Cool Web Server" class="card-image">
+    <img src="/images/photo.jpg" alt="Cool Web Server" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
   <div class="card-text">
     
       <a href="https://github.com/" class="card-title">
         Cool Web Server
-      </a>
+    </a>
     
 
     
@@ -732,7 +729,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
   <div class="tags" data-repo="greenelab/lab-website-template" data-link="/research/">
     
-      <a href='/research/?search="tag:%20software"' class="tag" data-tooltip='Show items with the tag "software"'>
+      <a href="/research/?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
         software
       </a>
     
@@ -765,7 +762,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 
   <div class="button-wrapper">
-    <a class="button" href="mailto:ashesh@iisc.ac.in" data-tooltip="Email" data-style="bare">
+    <a class="button" href="mailto:ashesh@iisc.ac.in" data-tooltip="Email" data-style="bare" aria-label="Email">
       <i class="icon fa-solid fa-envelope"></i>
       
     </a>
@@ -780,7 +777,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://scholar.google.com/citations?user=gb2zS_IAAAAJ" data-tooltip="Google Scholar" data-style="bare">
+    <a class="button" href="https://scholar.google.com/citations?user=gb2zS_IAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
       <i class="icon fa-brands fa-google"></i>
       
     </a>
@@ -795,7 +792,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://twitter.com/AsheshDhawale" data-tooltip="Twitter" data-style="bare">
+    <a class="button" href="https://twitter.com/AsheshDhawale" data-tooltip="Twitter" data-style="bare" aria-label="Twitter">
       <i class="icon fa-brands fa-twitter"></i>
       
     </a>
@@ -814,7 +811,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
     </a>
   </div>
 
-  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" oninput="onDarkToggleChange(event)">
+  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
 </footer>
 
   </body>
