@@ -13,13 +13,13 @@ We are located within the [Centre for Neuroscience](https://cns.iisc.ac.in/) at 
 {%
   include button.html
   type="email"
-  text="Email us"
+  text="Email"
   link="ashesh@iisc.ac.in"
 %}
 {%
   include button.html
   type="phone"
-  text="Call us"
+  text="Telephone"
   link="+91-80-22933753"
 %}
 {%
@@ -35,13 +35,11 @@ We are located within the [Centre for Neuroscience](https://cns.iisc.ac.in/) at 
 <h2 style="text-align: center;">Mailing address</h2>
 
 <div align="center">
-
-Centre for Neuroscience  
-Indian Institute of Science  
-Malleswaram  
-Bangalore 560012  
-India  
-
+Centre for Neuroscience <br>
+Indian Institute of Science <br> 
+CV Raman Road, Malleswaram <br>
+Bangalore 560012 <br> 
+India <br>
 </div>
 
 
