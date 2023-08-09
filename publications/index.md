@@ -21,9 +21,6 @@ nav:
 
 {% include section.html %}
 
-
-## All
-
 {%
   include button.html
   icon="fa-solid fa-book-open"
@@ -36,6 +33,8 @@ nav:
   text="Google Scholar"
   link="https://scholar.google.com/citations?hl=en&user=gb2zS_IAAAAJ&view_op=list_works&sortby=pubdate"
 %}
+
+## All
 
 {% include search-box.html %}
 
