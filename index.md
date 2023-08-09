@@ -4,7 +4,7 @@
 # NEUROSCIENCE OF EXPLORATION
 {:.center}
 
-An engaging 1-3 sentence description of your lab.
+We are a collective of 
 
 {% include section.html %}
 
