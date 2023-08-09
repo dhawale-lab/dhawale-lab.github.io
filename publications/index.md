@@ -21,7 +21,21 @@ nav:
 
 {% include section.html %}
 
+
 ## All
+
+{%
+  include button.html
+  icon="fa-solid fa-book-open"
+  text="PubMed"
+  link="https://pubmed.ncbi.nlm.nih.gov/?term=ashesh+dhawale&sort=pubdate"
+%}
+{%
+  include button.html
+  icon="fa-brands fa-google"
+  text="Google Scholar"
+  link="https://scholar.google.com/citations?hl=en&user=gb2zS_IAAAAJ&view_op=list_works&sortby=pubdate"
+%}
 
 {% include search-box.html %}
 
