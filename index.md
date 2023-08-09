@@ -17,4 +17,5 @@ We employ an interdisciplinary strategy to investigate the neural basis of skill
   link="team"
   title="Our Team"
   text=text
+  caption="The lab in March 2023"
 %}
