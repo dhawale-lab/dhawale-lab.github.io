@@ -19,7 +19,7 @@ Ashesh's office is in room A-012 and other lab members work out of B-007 on the 
 {%
   include button.html
   type="phone"
-  text="+91(80)2293-3753"
+  text="+91 (80) 2293-3753"
   link="+91-80-22933753"
 %}
 {%
