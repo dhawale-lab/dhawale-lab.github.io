@@ -21,7 +21,7 @@ Our team comprises an interdisciplinary group of researchers with diverse backgr
 {% include section.html dark=true %}
 {%
   include button.html
-  icon="fa-solid fa-people-group"
+  icon="fa-solid fa-user-plus"
   text="Positions"
   link="positions"
   style="button"

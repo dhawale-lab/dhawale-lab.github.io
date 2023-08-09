@@ -5,7 +5,7 @@ nav:
   tooltip: Join us
 ---
 
-# {% include icon.html icon="fa-solid fa-handshake-angle" %}Positions
+# {% include icon.html icon="fa-solid fa-user-plus" %}Positions
 
 ### PhD Students
 
