@@ -23,24 +23,25 @@ We are located within the [Centre for Neuroscience](https://cns.iisc.ac.in/) at 
 %}
 {%
   include button.html
-  type="Google Maps"
+  type="address"
+  text="Google Maps"
   tooltip="Our location on Google Maps"
   link="https://goo.gl/maps/PBLHGx3p4W6xGYJ79"
 %}
 
 {% include section.html %}
 
-<p style="text-align: center;">
+<h2 style="text-align: center;">Mailing address</h1>
 
-## Mailing address
+<div align="center">
 
-Centre for Neuroscience, 
-Indian Institute of Science, 
-Malleswaram, 
-Bangalore 560012
-India
+Centre for Neuroscience\
+Indian Institute of Science\
+Malleswaram\
+Bangalore 560012\
+India\
 
-</p>
+</div>
 
 
 {% include section.html %}
