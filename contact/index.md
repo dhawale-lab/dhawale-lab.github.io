@@ -8,7 +8,10 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 We are located within the [Centre for Neuroscience](https://cns.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/). 
+
 Ashesh's office is in room A-012 and other lab members work out of B-007 on the ground floor of the CNS building.
+
+Our mailing address is: Centre for Neuroscience, Indian Institute of Science, Malleswaram, Bangalore, 560012, India
 
 {%
   include button.html
