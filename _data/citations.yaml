@@ -46,6 +46,30 @@
   - type: youtube
     text: Video abstract
     link: watch?v=01MLI5diOQ8
+- id: doi:10.1101/661165
+  title: Discovering precise temporal patterns in large-scale neural recordings through
+    robust and interpretable time warping
+  authors:
+  - Alex H. Williams
+  - Ben Poole
+  - Niru Maheswaranathan
+  - Ashesh K. Dhawale
+  - Tucker Fisher
+  - Christopher D. Wilson
+  - David H. Brann
+  - Eric Trautmann
+  - Stephen Ryu
+  - Roman Shusterman
+  - Dmitry Rinberg
+  - "Bence P. \xD6lveczky"
+  - Krishna V. Shenoy
+  - Surya Ganguli
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-06-06'
+  link: https://doi.org/gkwqrr
+  orcid: 0000-0001-7438-1115
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7554/eLife.27702
   title: Automated long-term recording and analysis of neural activity in behaving
     animals
