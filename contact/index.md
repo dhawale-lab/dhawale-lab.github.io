@@ -35,11 +35,11 @@ We are located within the [Centre for Neuroscience](https://cns.iisc.ac.in/) at 
 
 <div align="center">
 
-Centre for Neuroscience\
-Indian Institute of Science\
-Malleswaram\
-Bangalore 560012\
-India\
+Centre for Neuroscience  
+Indian Institute of Science  
+Malleswaram  
+Bangalore 560012  
+India  
 
 </div>
 
