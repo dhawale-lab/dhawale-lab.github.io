@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Research Projects
+  tooltip: Projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research

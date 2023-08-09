@@ -14,12 +14,14 @@ We are located within the [Centre for Neuroscience](https://cns.iisc.ac.in/) at 
   include button.html
   type="email"
   text="Email"
+  tooltip="ashesh@iisc.ac.in"
   link="ashesh@iisc.ac.in"
 %}
 {%
   include button.html
   type="phone"
-  text="Telephone"
+  text="Phone"
+  tooltip="+91(80)22933753"
   link="+91-80-22933753"
 %}
 {%
@@ -32,10 +34,8 @@ We are located within the [Centre for Neuroscience](https://cns.iisc.ac.in/) at 
 
 {% include section.html %}
 
-## Mailing address
+### Mailing address
 {:.center}
-
-<h2 style="text-align: center;">Mailing address</h2>
 
 <div align="center">
 Centre for Neuroscience <br>

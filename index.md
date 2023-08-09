@@ -1,7 +1,8 @@
 ---
 ---
 
-<h1 style="text-align: center;">Uncovering neural algorithms for learning</h1>
+# Uncovering neural algorithms for learning
+{:.center}
 
 Performing an ace tennis serve or checkmating an opponent in chess can seem like daunting tasks for a novice. Yet we take it for granted that, given enough practice and time, we can all become expert practitioners of such skills. The brain’s ability to solve complex learning challenges is an incredible feat whose speed and efficiency is unmatched by machine intelligence. However, little is known about this ability and the neural circuits that underlie it. 
 
