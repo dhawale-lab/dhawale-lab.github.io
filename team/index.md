@@ -12,10 +12,10 @@ Our team comprises an interdisciplinary group of researchers with diverse backgr
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc" %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
-{% include list.html data="members" component="portrait" filters="role: ra, group: " %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: current" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: current" %}
+{% include list.html data="members" component="portrait" filters="role: ra, group: current" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: current" %}
 
 {% include section.html background="images/lab.jpg" dark=true %}
 

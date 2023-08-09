@@ -3,6 +3,7 @@ name: Rishika Sharma
 image: images/team/rishika-sharma.jpg
 description: PhD student (CNS)
 role: phd
+group: current
 links:
   email: rishikas@iisc.ac.in
   
