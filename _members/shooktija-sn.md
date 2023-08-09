@@ -9,4 +9,4 @@ links:
   
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I received my B.Sc. in Physics from St. Joseph's college in Bangalore in 2022. I am interested in [...].

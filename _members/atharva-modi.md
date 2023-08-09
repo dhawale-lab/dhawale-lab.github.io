@@ -9,4 +9,4 @@ links:
   
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am a PhD student in the Centre for Neuroscience at IISc. I received my BTech in [...] from [...]. Following graduation, I wored [...]. My project aims to [...].

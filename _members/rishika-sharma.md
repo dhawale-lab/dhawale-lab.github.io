@@ -9,4 +9,4 @@ links:
   
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am a PhD student in the Centre for Neuroscience at IISc. I received my B.Sc. in [...] from [..] and my M.Sc. in [..] from IIT Roorkee. I am interested in [...]
