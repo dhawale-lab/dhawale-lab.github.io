@@ -14,20 +14,26 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="ashesh@iisc.ac.in"
+  link="ashesh@iisc.ac.in"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+91(80)2293-3753 (Office)"
+  link="+91-80-22933753"
+%}
+{%
+  include button.html
+  type="phone"
+  text="+91(80)2293-3754 (Lab)"
+  link="+91-80-22933754"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Our location on Google Maps"
+  link="https://goo.gl/maps/PBLHGx3p4W6xGYJ79"
 %}
 
 {% include section.html %}
@@ -36,8 +42,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/iisc/CNS.jpg"
+  caption="Centre for Neuroscience"
 %}
 
 {% endcapture %}
@@ -47,7 +53,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Indian Institute of Science"
 %}
 
 {% endcapture %}
@@ -56,22 +62,3 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
