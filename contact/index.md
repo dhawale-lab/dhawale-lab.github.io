@@ -45,7 +45,7 @@ Ashesh's office is in room A-012 and other lab members work out of B-007 on the 
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/iisc/iisc-main-building.jpg"
   caption="Indian Institute of Science"
 %}
 
