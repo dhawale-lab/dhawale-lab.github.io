@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our research spans multiple areas including motor learning, decision-making, and play behaviour.
+Our research seeks to uncover neural mechanisms underlying diverse phenomena including motor learning, decision-making, and play behaviour.
 
 {% include section.html %}
 
@@ -21,13 +21,11 @@ Our research spans multiple areas including motor learning, decision-making, and
 {%
   include feature.html
   image="images/photo.jpg"
-  headline="Neural mechanisms for learning in continuous motor spaces"
+  headline="Learning in continuous motor spaces"
   text=text
 %}
 
 {% capture text %}
-
-<br>
 
 {:.center}
 {% endcapture %}
@@ -35,7 +33,7 @@ Our research spans multiple areas including motor learning, decision-making, and
 {%
   include feature.html
   image="images/photo.jpg"
-  headline="Neural basis of structure learning"
+  headline="Learning of task structure"
   text=text
 %}
 
