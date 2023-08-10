@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-solid fa-paper-plane" %}Contact
 
 We are located within the [Centre for Neuroscience](https://cns.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/).
 {:.center}
