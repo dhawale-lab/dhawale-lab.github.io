@@ -21,7 +21,7 @@ Our research seeks to uncover neural mechanisms underlying diverse phenomena inc
 {%
   include feature.html
   image="images/photo.jpg"
-  headline="Learning in continuous motor spaces"
+  title="Learning in continuous motor spaces"
   text=text
 %}
 
@@ -33,7 +33,7 @@ Our research seeks to uncover neural mechanisms underlying diverse phenomena inc
 {%
   include feature.html
   image="images/photo.jpg"
-  headline="Learning of task structure"
+  title="Exploration strategies for solving complex tasks"
   text=text
 %}
 
@@ -45,6 +45,6 @@ Our research seeks to uncover neural mechanisms underlying diverse phenomena inc
 {%
   include feature.html
   image="images/photo.jpg"
-  headline="Development and impact of social play behaviour"
+  title="Development and impact of social play behaviour"
   text=text
 %}
