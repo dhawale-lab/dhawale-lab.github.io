@@ -14,7 +14,7 @@ Our team comprises an interdisciplinary group of researchers with diverse backgr
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: current" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: ra, group: current" %}
+{% include list.html data="members" component="portrait" filters="role: resasst, group: current" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: current" %}
 {% include list.html data="members" component="portrait" filters="role: intern, group: current" %}
 {% include list.html data="members" component="portrait" filters="role: staff, group: current" %}
@@ -42,7 +42,7 @@ Our team comprises an interdisciplinary group of researchers with diverse backgr
 ## Alumni
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" %}
-{% include list.html data="members" component="portrait" filters="role: ra, group: alum" %}
+{% include list.html data="members" component="portrait" filters="role: resasst, group: alum" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" %}
 {% include list.html data="members" component="portrait" filters="role: intern, group: alum" %}
 {% include list.html data="members" component="portrait" filters="role: staff, group: alum" %}
