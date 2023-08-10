@@ -35,6 +35,7 @@ Our research seeks to uncover neural mechanisms underlying diverse phenomena inc
   image="images/photo.jpg"
   title="Exploration strategies for solving complex tasks"
   text=text
+  flip=true
 %}
 
 {% capture text %}
