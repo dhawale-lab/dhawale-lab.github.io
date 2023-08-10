@@ -40,7 +40,12 @@ Our team comprises an interdisciplinary group of researchers with diverse backgr
 {% include section.html %}
 
 ## Alumni
-{% include list.html data="members" component="portrait" filters="group: alum"%}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" %}
+{% include list.html data="members" component="portrait" filters="role: ra, group: alum" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" %}
+{% include list.html data="members" component="portrait" filters="role: intern, group: alum" %}
+{% include list.html data="members" component="portrait" filters="role: staff, group: alum" %}
 
 {% capture content %}
 
