@@ -14,7 +14,7 @@ Given the interdiscplinary nature of our work, we encourage excellent students f
 ### Undergraduate Researchers
 
 We accept 1-2 trainees every year primarily from the IISc undergraduate program. Due to this, we cannot usually accomodate short-term interns from other programs. <br>
-Students interested in doing their BS/MS thesis projects in the lab may contact [Ashesh](/contact). Please note that, due to Institute policy, we cannot offer funding and accomodation to non-IISc students pursuing their thesis projects in the lab.
+Students interested in doing their BS/MS thesis projects in the lab may [contact](/contact) us. Please note that, due to Institute policy, we cannot offer funding and accomodation to non-IISc students pursuing their thesis projects in the lab.
 
 Since we get hundreds of requests every year for internships, we apologize if  we cannot respond to every email we recieve. 
 
