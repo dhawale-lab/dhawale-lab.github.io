@@ -19,8 +19,12 @@ undergrad:
   description: Undergraduate Student
 
 ra:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-binoculars
   description: Research Assistant
+
+intern:
+  icon: fa-solid fa-person-walking
+  description: Intern
 
 programmer:
   icon: fa-solid fa-code
