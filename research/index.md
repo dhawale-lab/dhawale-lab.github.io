@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our research seeks to uncover neural mechanisms underlying diverse phenomena including motor learning, decision-making, and play behaviour.
+Our research seeks to uncover neural mechanisms underlying diverse functions and behaviours including motor learning, decision-making, and social play.
 
 {% include section.html %}
 
