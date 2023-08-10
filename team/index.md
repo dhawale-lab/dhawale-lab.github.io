@@ -27,6 +27,14 @@ Our team comprises an interdisciplinary group of researchers with diverse backgr
   style="button"
 %}
 
+{%
+  include button.html
+  icon="fa-solid fa-camera"
+  text="Pictures"
+  link="pictures"
+  style="button"
+%}
+
 {% include section.html %}
 
 ## Alumni

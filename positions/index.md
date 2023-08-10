@@ -1,7 +1,7 @@
 ---
 title: Positions
 nav:
-  order: 5
+  order: 4
   tooltip: Join us
 ---
 

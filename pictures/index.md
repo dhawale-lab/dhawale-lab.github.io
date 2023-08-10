@@ -1,8 +1,5 @@
 ---
 title: Pictures
-nav:
-  order: 4
-  tooltip: Lab Life
 ---
 
 # {% include icon.html icon="fa-solid fa-camera" %}Lab Pictures
