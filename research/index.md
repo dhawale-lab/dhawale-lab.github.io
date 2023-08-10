@@ -41,7 +41,7 @@ How the brain learns by trial-and-error is best understood in simple choice task
 %}
 
 {% capture text %}
-Despite its importance to brain development, little is known about the neural basis of play and how it guides plasticity in brain areas responsible for social, cognitive, and motor skills in adulthood. We seek to identify the neural circuits responsible for social play behaviour during juvenescence and adolescence. We also want to understand the impact of social play on the development of the frontal cortex, an important locus for skilled behaviour, and the neural mechanisms by which play influences later learning in adulthood. 
+Despite its importance to brain development, little is known about the neural basis of play and how it guides plasticity in brain areas responsible for social, cognitive, and motor skills in adulthood. We seek to identify the neural circuits underlying play behaviour during juvenescence and adolescence. We also want to understand the impact of play on development of frontal cortex, an important locus for skilled behaviour, and the neural mechanisms by which play influences later learning in adulthood. 
 
 {:.left}
 {% endcapture %}
