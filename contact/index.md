@@ -34,7 +34,7 @@ We are located within the [Centre for Neuroscience](https://cns.iisc.ac.in/) at 
 
 {% include section.html %}
 
-### <i class="fa-solid fa-envelopes-bulk"></i>Mailing address
+### <i class="fa-solid fa-envelopes-bulk"></i>Mailing Address
 {:.center}
 
 <div align="center">
