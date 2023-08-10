@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-user-plus" %}Positions
 
+{% include section.html}
+
 ### PhD Students
 
 Given the interdiscplinary nature of our work, we encourage excellent students from a variety of backgrounds to apply. We cannot admit PhD students directly to our lab; interested candidates may apply to the [Centre for Neuroscience PhD program](https://cns.iisc.ac.in/academics/phd-program/) or the IISc [Integrated PhD program](https://iisc.ac.in/admissions/ph-d-integratedprogrammes/) in Biological Sciences. Students can also apply to the interdiscplinary [Brain and AI PhD program](https://brain-computation.iisc.ac.in/opportunities/).
