@@ -15,7 +15,7 @@ Currently, we have no lab funding for Postdoctoral Fellows. However, qualified c
 
 ### PhD Students
 
-Given the interdiscplinary nature of our work, we encourage excellent students from a variety of backgrounds to apply. We cannot admit PhD students directly to our lab; interested candidates may apply to the [Centre for Neuroscience PhD program](https://cns.iisc.ac.in/academics/phd-program/) or the IISc [Integrated PhD program](https://iisc.ac.in/admissions/ph-d-integratedprogrammes/) in Biological Sciences. Students can also apply to the interdiscplinary [Brain and AI PhD program](https://brain-computation.iisc.ac.in/opportunities/).
+Given the interdiscplinary nature of our work, we encourage excellent students from a variety of backgrounds to apply. We cannot admit PhD students directly to our lab. Interested candidates should apply to the [Centre for Neuroscience PhD program](https://cns.iisc.ac.in/academics/phd-program/) or the IISc [Integrated PhD program](https://iisc.ac.in/admissions/ph-d-integratedprogrammes/) in Biological Sciences. Students may also apply to the interdiscplinary [Brain and AI PhD program](https://brain-computation.iisc.ac.in/opportunities/).
 
 ### Undergraduate Researchers
 
