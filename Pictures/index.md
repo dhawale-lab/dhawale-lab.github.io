@@ -16,26 +16,32 @@ Assorted pictures inside and outside the lab.
     include figure.html
     image="images/lablife/kayaking-manipal-2022.jpg"
     caption="Kayaking in Manipal, 2022"
+    link="images/lablife/kayaking-manipal-2022.jpg"
   %}
   {%
     include figure.html
     image="images/lablife/makalidurga-hike-2023.jpg"
     caption="Hike to Makalidurga, 2023"
+    link="images/lablife/makalidurga-hike-2023.jpg"
+    
   %}
   {%
     include figure.html
     image="images/lablife/open-day-2023-1.jpg"
     caption="IISc Open Day, 2023"
+    link="images/lablife/open-day-2023-1.jpg"
   %}
   {%
     include figure.html
     image="images/lablife/open-day-2023-2.jpg"
     caption="IISc Open Day, 2023"
+    link="images/lablife/open-day-2023-2.jpg"
   %}
   {%
     include figure.html
     image="images/lablife/open-day-2023-3.jpg"
     caption="IISc Open Day, 2023"
+    link="images/lablife/open-day-2023-3.jpg"
   %}
 {% endcapture %}
 
