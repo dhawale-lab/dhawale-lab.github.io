@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-user-plus" %}Positions
 
-{% include section.html}
+{% include section.html %}
 
 ### PhD Students
 
