@@ -2,7 +2,7 @@
 name: Shooktija SN
 image: images/team/shooktija-sn.jpg
 description: Research Assistant
-role: ra
+role: resasst
 group: current
 links:
   email: shooktijasn@iisc.ac.in

@@ -2,7 +2,7 @@
 name: Anuj Patel
 image: images/team/anuj-patel.jpg
 description: Research Assistant
-role: ra
+role: resasst
 group: alum
 links:
     
