@@ -17,6 +17,7 @@ Our team comprises an interdisciplinary group of researchers with diverse backgr
 {% include list.html data="members" component="portrait" filters="role: ra, group: current" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: current" %}
 {% include list.html data="members" component="portrait" filters="role: intern, group: current" %}
+{% include list.html data="members" component="portrait" filters="role: staff, group: current" %}
 
 
 {% include section.html dark=true %}
@@ -31,7 +32,7 @@ Our team comprises an interdisciplinary group of researchers with diverse backgr
 {%
   include button.html
   icon="fa-solid fa-camera"
-  text="Pictures"
+  text="Lab Pictures"
   link="pictures"
   style="button"
 %}

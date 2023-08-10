@@ -26,6 +26,10 @@ intern:
   icon: fa-solid fa-person-walking
   description: Intern
 
+staff:
+  icon: fa-solid fa-screwdriver-wrench
+  description: Staff
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer
