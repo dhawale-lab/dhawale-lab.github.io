@@ -24,6 +24,13 @@ Assorted pictures inside and outside the lab.
   %}
   {%
     include figure.html
+    image="images/lablife/lab-dinner-2023.jpg"
+    caption="Lab dinner, March 2023"
+    link="images/lablife/lab-dinner-2023.jpg"
+    
+  %}
+  {%
+    include figure.html
     image="images/lablife/open-day-2023-1.jpg"
     caption="IISc Open Day, 2023"
     link="images/lablife/open-day-2023-1.jpg"
