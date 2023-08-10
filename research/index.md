@@ -35,7 +35,7 @@ How the brain learns by trial-and-error is best understood in simple choice task
 {%
   include feature.html
   image="images/photo.jpg"
-  title="How does the brain efficiently explore in complex tasks?"
+  title="How does the brain efficiently solve complex decision-making tasks?"
   text=text
   flip=true
 %}
