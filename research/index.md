@@ -75,4 +75,5 @@ Despite its importance to brain development, little is known about the neural ba
 {%
   include grid.html
   content=content
+  style="square"
 %}
