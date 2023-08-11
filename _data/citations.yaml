@@ -27,7 +27,7 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41593-021-00889-3/MediaObjects/41593_2021_889_Fig1_HTML.png?as=webp
+  image: /images/projects/nat-neuro-2021.jpg
 - id: doi:10.1016/j.neuron.2019.10.020
   title: Discovering Precise Temporal Patterns in Large-Scale Neural Recordings through
     Robust and Interpretable Time Warping
@@ -65,7 +65,7 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982219311029-gr1.jpg
+  image: /images/projects/current-biology-2019.jpg
   buttons:
   - type: youtube
     text: Video abstract
@@ -86,7 +86,7 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
-  image: https://iiif.elifesciences.org/lax/27702%2Felife-27702-fig1-v2.tif/full/1234,/0/default.webp
+  image: /images/projects/elife-2017.jpg
 - id: doi:10.1146/annurev-neuro-072116-031548
   title: The Role of Variability in Motor Learning
   authors:
@@ -99,7 +99,7 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6091866/bin/nihms982700f1.jpg
+  image: /images/projects/ann-rev-2017.jpg
 - id: doi:10.1016/j.neuron.2015.03.024
   title: Motor Cortex Is Required for Learning but Not for Executing a Motor Skill
   authors:
@@ -145,6 +145,7 @@
   orcid: 0000-0001-7438-1115
   plugin: sources.py
   file: sources.yaml
+  image: /images/projects/nat-neuro-2010.jpg
 - id: doi:10.2976/1.2835214
   title: 'The network and the synapse: 100 years after Cajal'
   authors:
