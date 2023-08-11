@@ -52,3 +52,26 @@ Despite its importance to brain development, little is known about the neural ba
   title="Development and long-term impact of play behaviour"
   text=text
 %}
+
+{% include section.html %}
+
+## Funding
+
+{% capture content %}
+  {%
+    include figure.html
+    image="images/funding/iisc.png"
+    caption="IISc Start-up Funds"    
+  %}
+  {%
+    include figure.html
+    image="images/funding/serb.png"
+    caption="DST SERB"
+  %}
+{% endcapture %}
+
+{%
+  include grid.html
+  content=content
+  style="square"
+%}

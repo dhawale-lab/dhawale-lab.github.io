@@ -19,8 +19,7 @@ Assorted pictures inside and outside the lab.
     include figure.html
     image="images/lablife/makalidurga-hike-2023.jpg"
     caption="Hike to Makalidurga, 2023"
-    link="images/lablife/makalidurga-hike-2023.jpg"
-    
+    link="images/lablife/makalidurga-hike-2023.jpg"    
   %}
   {%
     include figure.html
