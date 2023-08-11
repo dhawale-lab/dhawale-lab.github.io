@@ -47,6 +47,11 @@ Assorted pictures inside and outside the lab.
     caption="IISc Open Day, 2023"
     link="images/lablife/open-day-2023-3.jpg"
   %}
+  {%
+    include figure.html
+    image="images/lablife/rishika-surgery.jpg"
+    link="images/lablife/rishika-surgery.jpg"
+  %}
 {% endcapture %}
 
 {%
