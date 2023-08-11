@@ -11,7 +11,7 @@ nav:
 
 ### Postdoctoral Researchers
 
-Currently, we have no lab funding for Postdoctoral Fellows. However, qualified candidates with a strong interest in systems neuroscience can apply for their own funding from several [sources](https://indiabioscience.org/postdocs/grants) including from [IISc](https://iisc.ac.in/post-docs/). Please [contact](/contact) us if you are interested in doing a postdoc in the lab.
+Currently, we have no lab funding for Postdoctoral Fellows. However, qualified candidates with a strong interest in systems neuroscience can apply for funding from several [sources](https://indiabioscience.org/postdocs/grants), including [IISc](https://iisc.ac.in/post-docs/). Please [contact](/contact) us if you are interested in doing a postdoc in the lab.
 
 ### PhD Students
 
@@ -26,15 +26,8 @@ Since we get hundreds of internship requests every year, we apologize if we cann
 
 ### Research Assistants
 
-At present, we have no openings available for Research Assistants.
+At present, we have no openings for Research Assistants.
 
-<!--
-### Postdoctoral Researchers
-
-
-
-
--->
 
 
 
