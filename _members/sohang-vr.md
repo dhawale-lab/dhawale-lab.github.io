@@ -9,4 +9,4 @@ links:
   
 ---
 
-I received my [..] in [..] from [..]. I handle administrative responsibilities for the lab including purchasing, accounting and personnel management.
+I received my Bachelor's degree in Commerce from GITAM Univeristy. I handle administrative responsibilities for the lab including ordering, purchase, accounts and personnel management.

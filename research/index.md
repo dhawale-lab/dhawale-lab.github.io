@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our research seeks to uncover neural mechanisms underlying diverse functions and behaviours including motor learning, decision-making, and social play.
+Our research seeks to uncover the neural mechanisms responsible for learning of complex behaviours.
 
 {% include section.html %}
 
