@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our research seeks to uncover the neural mechanisms responsible for learning of complex behaviours.
+Our research seeks to uncover the neural mechanisms underlying learning of complex behaviours.
 
 {% include section.html %}
 
