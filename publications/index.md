@@ -19,6 +19,8 @@ nav:
 
 {% include citation.html lookup="The Role of Variability in Motor Learning" style="rich" %}
 
+{% include citation.html lookup="Non-redundant odor coding by sister mitral cells revealed by light addressable glomeruli in the mouse" style="rich" %}
+
 {% include section.html %}
 
 {%
