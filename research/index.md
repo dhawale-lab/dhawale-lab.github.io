@@ -61,17 +61,18 @@ Despite its importance to brain development, little is known about the neural ba
   {%
     include figure.html
     image="images/funders/iisc.png"
-    caption="IISc Start-up Funds"    
+    caption="IISc Start-up Funds"  
+    width="100%"  
   %}
   {%
     include figure.html
     image="images/funders/serb.png"
     caption="DST SERB"
+    width="100%"
   %}
 {% endcapture %}
 
 {%
   include grid.html
   content=content
-  style="square"
 %}
