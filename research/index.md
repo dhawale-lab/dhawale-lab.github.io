@@ -21,7 +21,7 @@ Mastering a new skill requires the brain to not only learn which action to enact
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects/project-1.jpg"
   title="How does the brain learn in continuous motor spaces?"
   text=text
 %}
