@@ -36,7 +36,7 @@ nav:
   link="https://scholar.google.com/citations?hl=en&user=gb2zS_IAAAAJ&view_op=list_works&sortby=pubdate"
 %}
 
-## All
+## All Publications
 
 {% include search-box.html %}
 
