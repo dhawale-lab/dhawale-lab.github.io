@@ -8,4 +8,4 @@ links:
   
 ---
 
-I am doing my BS thesis project in the lab. My research seeks to [...].
+I am doing my BS thesis project in the lab. 

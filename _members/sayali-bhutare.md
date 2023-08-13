@@ -9,4 +9,4 @@ links:
   
 ---
 
-I am enrolled in the M.Sc. in Life Sciences program at IISc. I received my B.Sc. in Biotechnology from Savitribai Phule Pune University in 2023. I am interested in [...].
+I am enrolled in the M.Sc. in Life Sciences program at IISc. I received my B.Sc. in Biotechnology from Savitribai Phule Pune University in 2023.
