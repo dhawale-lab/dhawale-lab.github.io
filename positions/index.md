@@ -11,7 +11,7 @@ nav:
 
 ### Postdoctoral Researchers
 
-Currently, we have no lab funding for Postdoctoral Fellows. However, qualified candidates with a strong interest in systems neuroscience can apply for funding from several [sources](https://indiabioscience.org/postdocs/grants), including [IISc](https://iisc.ac.in/post-docs/). Please [contact](/contact) us if you are interested in doing a postdoc in the lab.
+Currently, we have no grant funding for Postdoctoral Fellows. However, qualified candidates with a strong interest in systems neuroscience may apply for external funding from several [sources](https://indiabioscience.org/postdocs/grants), including [IISc](https://iisc.ac.in/post-docs/). Please [contact](/contact) us if you are interested in doing a postdoc in the lab.
 
 ### PhD Students
 
@@ -25,15 +25,15 @@ At present, we have no openings for Research Assistants.
 
 ### Undergraduate Researchers
 
-We accept 1-2 trainees every year primarily from the IISc undergraduate program. Therefore, we typically cannot accomodate additional short-term interns from other programs. <br>
-Students interested in doing their BS/MS thesis projects in the lab may [contact](/contact) us. Please note that, due to Institute policy, we cannot offer funding and accomodation to non-IISc students pursuing thesis projects in the lab.
+We accept 1-2 trainees every year primarily from the IISc undergraduate program.  We typically cannot accomodate additional interns from other programs. <br>
+Students interested in doing their BS/MS thesis projects in the lab may [contact](/contact) us. Please note that, due to Institute policy, we cannot offer funding and accomodation to non-IISc students who wish to do their thesis research in the lab.
 
 
 {% capture response %}
-Since we get large numbers of internship request emails every year, we apologize in advance that we cannot respond to every request. 
+We get hundreds of internship requests each year. We apologize that we cannot respond to every email we receive.
 {% endcapture %}
 
-{% capture content %}**Emails:** {{ response }}{% endcapture %}
+{% capture content %}**Email Replies:** {{ response }}{% endcapture %}
 {% include alert.html type="info" content=content %}
 
 
