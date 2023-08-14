@@ -17,16 +17,28 @@ Currently, we have no lab funding for Postdoctoral Fellows. However, qualified c
 
 Given the interdiscplinary nature of our work, we encourage excellent students from a variety of backgrounds to apply. We cannot admit PhD students directly to our lab. Interested candidates should apply to the [Centre for Neuroscience PhD program](https://cns.iisc.ac.in/academics/phd-program/) or the IISc [Integrated PhD program](https://iisc.ac.in/admissions/ph-d-integratedprogrammes/) in Biological Sciences. Students may also apply to the interdiscplinary [Brain and AI PhD program](https://brain-computation.iisc.ac.in/opportunities/).
 
+
+### Research/Project Assistants
+
+At present, we have no openings for Research Assistants.
+
+
 ### Undergraduate Researchers
 
 We accept 1-2 trainees every year primarily from the IISc undergraduate program. Therefore, we typically cannot accomodate additional short-term interns from other programs. <br>
 Students interested in doing their BS/MS thesis projects in the lab may [contact](/contact) us. Please note that, due to Institute policy, we cannot offer funding and accomodation to non-IISc students pursuing thesis projects in the lab.
 
-Since we get hundreds of internship requests every year, we apologize if we cannot respond to every email. 
 
-### Research Assistants
+{% capture response %}
+Since we get hundreds of internship requests every year, we apologize that we cannot respond to every email. 
+{% endcapture %}
 
-At present, we have no openings for Research Assistants.
+{% capture content %}**Emails:** {{ response }}{% endcapture %}
+{% include alert.html type="info" content=content %}
+
+
+
+
 
 
 
