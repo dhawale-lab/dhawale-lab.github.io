@@ -1,12 +1,12 @@
 ---
-name: Sayali Bhutare
+name: Sayali R. Bhutare
 image: images/team/sayali-bhutare.jpg
 description: MSc student (IISc)
 role: undergrad
-group: future
+group: current
 links:
   email: sayalir@iisc.ac.in
   
 ---
 
-I am enrolled in the M.Sc. in Life Sciences program at IISc. I received my B.Sc. in Biotechnology from Savitribai Phule Pune University in 2023.
+I am an MSc Life Sciences student at IISc specializing in neuroscience and behaviour. I completed my bachelor's degree in Biotechnology from Savitribai Phule Pune University. I am fascinated by the brain's plasticity mechanisms that underlie reinforcement learning and skill acquisition. 
