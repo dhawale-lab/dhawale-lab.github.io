@@ -33,7 +33,7 @@ Students interested in doing their BS/MS thesis projects in the lab may [contact
 We get hundreds of internship requests each year. We apologize that we cannot respond to every email we receive.
 {% endcapture %}
 
-{% capture content %}**Email Replies:** {{ response }}{% endcapture %}
+{% capture content %}**Note:** {{ response }}{% endcapture %}
 {% include alert.html type="info" content=content %}
 
 
