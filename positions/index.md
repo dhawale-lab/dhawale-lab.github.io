@@ -29,13 +29,6 @@ We accept 1-2 trainees every year primarily from the IISc undergraduate program.
 Students interested in doing their BS/MS thesis projects in the lab may [contact](/contact) us. Please note that, due to Institute policy, we cannot offer funding and accomodation to non-IISc students who wish to do their thesis research in the lab.
 
 
-{% capture response %}
-We get hundreds of internship requests each year. We apologize that we cannot respond to every email we receive.
-{% endcapture %}
-
-{% capture content %}**Note:** {{ response }}{% endcapture %}
-{% include alert.html type="info" content=content %}
-
 
 
 
