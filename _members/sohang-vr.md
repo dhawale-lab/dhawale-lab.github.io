@@ -3,7 +3,7 @@ name: Sohang VR
 image: images/team/sohang-vr.jpg
 description: Administrative Assistant
 role: staff
-group: current
+group: alum
 links:
   email: sohangv@iisc.ac.in
   
