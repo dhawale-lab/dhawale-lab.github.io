@@ -1,11 +1,10 @@
 ---
 name: Anirudh Sharma
 image: images/team/anirudh-sharma.jpg
-description: Intern
-role: intern
-group: current
+description: Research Assistant
+role: resasst
+group: alum
 links:
-  email: sanirudh@collabs.iisc.ac.in
   
 ---
 

@@ -34,7 +34,7 @@ How the brain learns by trial-and-error is best understood in the context of sim
 
 {%
   include feature.html
-  image="images/projects/project-2.jpg"
+  image="images/projects/project-2.png"
   title="How does the brain efficiently solve complex decision-making tasks?"
   text=text
   flip=true

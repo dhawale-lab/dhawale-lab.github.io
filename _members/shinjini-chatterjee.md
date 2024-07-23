@@ -3,9 +3,9 @@ name: Shinjini Chatterjee
 image: images/team/shinjini-chatterjee.jpg
 description: BS student (IISc)
 role: undergrad
-group: current
+group: alum
 links:  
   
 ---
 
-I am doing my BS thesis project in the lab. 
+Shinjini did her BS thesis project in the lab from 2023-24. 
