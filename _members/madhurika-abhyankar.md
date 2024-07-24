@@ -1,7 +1,7 @@
 ---
 name: Madhurika Abhyankar
 image: images/team/madhurika-abhyankar.jpg
-description: MSc student (IBB, University of Pune)
+description: MSc student (Pune University)
 role: undergrad
 group: alum
 links:
