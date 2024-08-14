@@ -69,6 +69,16 @@ Despite its importance to brain development, little is known about the neural ba
     image="images/funders/serb.png"
     caption="DST SERB"
   %}
+  {%
+    include figure.html
+    image="images/funders/india-alliance.png"
+    caption="DBT-Wellcome Trust India Alliance (Intermediate Fellowship)"
+  %}
+  {%
+    include figure.html
+    image="images/funders/dbt.png"
+    caption="DBT"
+  %}
 {% endcapture %}
 
 {%
