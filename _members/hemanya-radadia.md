@@ -1,6 +1,6 @@
 ---
 name: Hemanya Radadia
-image: images/team/barnopriyo-dutta.jpg
+image: images/team/hemanya-radadia.jpg
 description: BS student (IISc)
 role: undergrad
 group: current
