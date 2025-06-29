@@ -3,7 +3,7 @@ name: Manali Upadhyaya
 image: images/team/manali-upadhyaya.jpg
 description: Research Assistant
 role: resasst
-group: current
+group: alum
 links:
   email: manaliu@iisc.ac.in
   

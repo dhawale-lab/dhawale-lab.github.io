@@ -3,9 +3,8 @@ name: Hemanya Radadia
 image: images/team/hemanya-radadia.jpg
 description: BS student (IISc)
 role: undergrad
-group: current
+group: alum
 links:
-  email: hemanyar@iisc.ac.in
   
 ---
 

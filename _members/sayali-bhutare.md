@@ -3,9 +3,8 @@ name: Sayali R. Bhutare
 image: images/team/sayali-bhutare.jpg
 description: MSc student (IISc)
 role: undergrad
-group: current
+group: alum
 links:
-  email: sayalir@iisc.ac.in
   
 ---
 

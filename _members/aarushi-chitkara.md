@@ -1,11 +1,11 @@
 ---
 name: Aarushi Chitkara
 image: images/team/aarushi-chitkara.jpg
-description: MSc student (Ashoka University)
-role: undergrad
+description: Research Assistant
+role: resasst
 group: current
 links:
-  email: aarushi.chitkara_msc2023@ashoka.edu.in
+  email: aarushi.chitkara@xaviers.edu.in
   
 ---
 
