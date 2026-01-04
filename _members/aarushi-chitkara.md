@@ -9,7 +9,7 @@ links:
   
 ---
 
-I am a Master's thesis student from Ashoka University. I completed my B.Sc. in Life Science and Biochemistry from St. Xavier's College, Mumbai in 2023. 
+I am a Research Assistant in the lab. Prior to this, I completed my MSc in Biology from Ashoka University in 2025, and my B.Sc. in Life Science and Biochemistry from St. Xavier's College, Mumbai in 2023. 
 
 My research interests revolve around understanding how the brain coordinates complex tasks, such as scoring a football goal, to achieve precise and intentional actions.
  

@@ -8,4 +8,4 @@ links:
   
 ---
 
-I received my B.Sc. in Physics from St. Joseph's college in Bangalore in 2022.
+Shookitja worked as a Research Assistant in the lab from 2022-24. Using his technical wizadry, he helped design many of the custom experimental setups we rely on.

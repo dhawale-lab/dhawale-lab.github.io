@@ -9,4 +9,4 @@ links:
   
 ---
 
-My fascination with how elders forget recent events but remember old childhood ones sparked my interest in learning about the brain. I completed my BS-MS in Biology from IISER Pune, where I worked in a neuroethology lab studying the initiation of learned motor movements in zebra finches. Listening to firing of neurons aligned with specific behaviors was one of my most captivating experiences. I then joined the Dhawale Lab, where I’m interested the neural correlates of trial-and-error motor learning.
+Manali was a Research Assistant in the lab from 2024-25. She developed platforms for large scale, multi-site electrophysiological recordings in behaving rodents. She is now pursuing her PhD at the International Max Planck Research School (IMPRS) in Bonn, Germany. 

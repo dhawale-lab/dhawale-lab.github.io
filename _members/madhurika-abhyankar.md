@@ -8,4 +8,4 @@ links:
   
 ---
 
-Madhurika Abhyankar was a member of the lab in 2024 during her MSc thesis project. 
+Madhurika Abhyankar was a member of the lab in 2024 while she worked on her MSc thesis project, in which she investigated the role of motor cortex in skill learning. 

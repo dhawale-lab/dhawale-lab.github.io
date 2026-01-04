@@ -8,4 +8,4 @@ links:
   
 ---
 
-Ever since I first saw a cell under a microscope back in fifth grade, I knew I wanted to pursue Biology. It was like that first time you look through a telescope and realise how vast the Universe is; just in the other direction. This led me to pursue a degree in Life Science and Biochemistry from St. Xavier's College, Mumbai, where I developed a specific interest in neuroscience. I then joined the Dhawale lab and am interested in studying whether and how the brain can take advantage of latent task structure to efficiently explore in decision-making paradigms.
+Anirudh was a Research Assistant in the lab from 2023-24. He investigated how the brain takes advantage of latent task structure to efficiently explore in decision-making paradigms. He is not pursuing his Intergrated PhD from NCBS, Bangalore.
