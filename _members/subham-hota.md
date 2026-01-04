@@ -9,4 +9,4 @@ links:
   
 ---
 
-I am a Research Assistant in the lab. Prior to this, I completed my MTech in Biotechnology and BTech in Materials Science from IIT Kanpur.
+I am a Research Assistant in the lab from 2025. Prior to this, I completed my MTech in Bioengineering and BTech in Materials Science from IIT Kanpur.
