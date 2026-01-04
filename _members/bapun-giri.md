@@ -3,6 +3,7 @@ name: Bapun Giri
 image: images/team/bapun-giri.jpg
 description: Postdoctoral Fellow
 role: postdoc
+group: current
 links:
   email: bapunk@iisc.ac.in
   google-scholar: r2_cxXwAAAAJ
