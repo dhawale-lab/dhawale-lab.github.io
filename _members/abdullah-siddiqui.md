@@ -8,4 +8,4 @@ links:
   orcid: 0009-0000-6085-8461
 ---
 
- After finishing my MBBS medical degree from the Seth G.S. Medical College, Mumbai in 2024, I joined the lab as a Research Intern.
+ I am a research intern in the lab. I completed my MBBS in 2024 from KEM Hospital, Mumbai. I joined the lab to learn how to record and analyse electrophysiology data. I work on tetrode microdrive design, implants and lesions of dopaminergic input to the dorsal striatum. My interests lie in functional neurosurgery and look forward to applying my experience in my future career as an aspiring neurosurgeon.
