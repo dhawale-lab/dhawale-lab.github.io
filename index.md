@@ -11,9 +11,9 @@ We employ an interdisciplinary strategy to investigate the neural basis of skill
 
 {%
   include figure.html
-  image="images/team/lab-pic-2025.jpg"
+  image="images/team/lab-pic-2026.jpg"
   link="team"
   title="Our Team"
   text=text
-  caption="The lab in March 2025"
+  caption="The lab in March 2026"
 %}
