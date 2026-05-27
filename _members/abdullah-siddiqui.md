@@ -3,7 +3,7 @@ name: Abdullah Siddiqui
 image: images/team/abdullah-siddiqui.jpg
 description: Intern (MBBS)
 role: intern
-group: current
+group: alum
 links:
   orcid: 0009-0000-6085-8461
 ---
